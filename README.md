@@ -19,4 +19,8 @@ Mad Lib
 ## Solution
 <!-- Embedded whiteboard image -->
 
-help from Eugine and JB on _ during lecture
+## help from :
+
+- Eugine and JB on read file and  during lecture
+
+- joseph Z
